@@ -1,1 +1,1 @@
-# Mental_Healthtcare
+# Mental_Healthcare
