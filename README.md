@@ -27,5 +27,4 @@ Our project is an interactive web application designed to promote mental well-be
 - Substance Abuse (Drugs & Alcohol)
 
 ## Responsive Design
-This platform is designed to be fully responsive, ensuring smooth usability across different devices.
-
+This platform is fully responsive, providing seamless usability on all devices. It adapts smoothly to different screen sizes.
