@@ -2,7 +2,7 @@
 ## Website: https://mental-healthcare.vercel.app/
 
 ## Overview
-Our project is an interactive web application designed to promote mental well-being through various engaging and informative features. It provides users with a supportive chatbot for casual conversations, statistical insights into mental health disorders, guidance on nutrition and exercise for mental wellness, and entertaining games to uplift mood.Through a mix of informative resources, engaging activities, and helpful tools, this platform encourages users to prioritize their mental health in a fun and accessible way.
+Our project is an interactive web application designed to promote mental well-being through various engaging and informative features. It provides users with a supportive chatbot for casual conversations, statistical insights into mental health disorders, guidance on nutrition and exercise for mental wellness, and entertaining games to uplift mood.Through a mix of informative resources, engaging activities, and helpful tools, this platform encourages users to prioritize their mental health in a fun and accessible way. It provides a way to regain your lost mental health with different approches.
 
 ## Preview
 <img width="1511" alt="image" src="https://github.com/user-attachments/assets/5fc99cca-bffc-4891-816c-af1f4aa28fe6" />
